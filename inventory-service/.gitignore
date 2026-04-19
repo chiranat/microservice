@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Database data
+**/volume-data/
+**/mysql_data/
+**/data/
+*.sock
+*.lock
